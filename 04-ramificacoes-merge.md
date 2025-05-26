@@ -11,3 +11,18 @@ Para mudar para essa minha branch criada, basta usar o comando $git checkout "no
 Para deletar uma branch que você criou, basta usar o comando $git branch -d "nome da branch"
 
 Também temos o comando $git branch , que lista todas as branchs ativas no projeto.
+
+// Git Merge 
+
+Git merge é o comando que usamos para juntar o conteúdo de uma branch com outra.
+Exemplo: você criou a branch nova-funcionalidade e, depois de terminar, quer colocar as mudanças na branch principal (main). Para isso, você faz:
+
+Conflitos no merge acontecem quando duas pessoas fazem alterações diferentes na mesma parte do código e depois tentam juntar essas mudanças.
+
+O Git, que normalmente consegue unir as alterações automaticamente, não sabe qual das duas versões deve manter, então ele pede que você escolha.
+
+O Git avisa que há um conflito.
+
+Os arquivos envolvidos ficam marcados, mostrando exatamente quais partes precisam ser revisadas.
+
+Não é possível concluir a união (merge) enquanto os conflitos não forem resolvidos.
