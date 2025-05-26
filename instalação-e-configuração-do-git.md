@@ -37,6 +37,7 @@ git config --global user.name "Seu Nome"
 
 ### 2. ✅ Configurar E-mail:
 git config --global user.email "seuemail@exemplo.com"
+
 📝 Importante: Utilize o mesmo e-mail associado à sua conta do GitHub para facilitar o reconhecimento.
 
 ### 3. ✅ Verificar Configurações:
@@ -46,6 +47,7 @@ Esse comando exibe todas as configurações definidas.
 ### 4. ✅ Checagem da Instalação
 Para verificar se o Git foi instalado corretamente, execute:
 git --version
+
 Se estiver tudo certo, o terminal mostrará a versão atual do Git instalada, por exemplo:
 git version 2.42.0
 
@@ -55,7 +57,10 @@ git version 2.42.0
 ## 🚨 Observações Importantes
 
 Sempre mantenha o Git atualizado para ter acesso aos últimos recursos e correções de segurança.
+
 As configurações com --global se aplicam a todos os repositórios locais no seu sistema.
+
 Para configurações específicas de um repositório, utilize a opção --local:
-git config --local user.name "Seu Nome"
-git config --local user.email "seuemail@exemplo.com"
+
+git config --local user.name "Seu Nome".
+git config --local user.email "seuemail@exemplo.com".
