@@ -20,6 +20,7 @@ Este projeto tem como objetivo apresentar de forma clara e objetiva os principai
 - Gustavo Pelissari Oenning - GitHub: [https://github.com/GustavoPelissari](https://github.com/GustavoPelissari)
 - Gabriel de Abreu da Silva - GitHub: [https://github.com/GabriellzinAbreu](https://github.com/GabriellzinAbreu)
 - Bruno Cernach Madeira - GitHub: [https://github.com/bcmadeira](https://github.com/bcmadeira)
+- Josué Wellyngtton Marçal de Souza - GitHub: [https://github.com/Josuewms](https://github.com/Josuewms)
 
 ## Nome do Grupo
 
