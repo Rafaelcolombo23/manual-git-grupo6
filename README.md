@@ -6,11 +6,11 @@ Este projeto tem como objetivo apresentar de forma clara e objetiva os principai
 
 ## 📑 Índice
 
-- [1. Introdução ao Git e ao Controle de Versão](#1-introdução-ao-git-e-ao-controle-de-versão)
-- [2. Instalação e Configuração do Git](#2-instalação-e-configuração-do-git)
-- [3. Comandos Básicos](#3-comandos-básicos)
-- [4. Branches e Merge](#4-branches-e-merge)
-- [5. GitHub e Pull Requests](#5-github-e-pull-requests)
+- [1. Introdução ao Git e ao Controle de Versão](https://github.com/Rafaelcolombo23/manual-git-grupo6/blob/main/introducao.md)
+- [2. Instalação e Configuração do Git](https://github.com/Rafaelcolombo23/manual-git-grupo6/blob/main/instalação-e-configuração-do-git.md)
+- [3. Comandos Básicos](https://github.com/Rafaelcolombo23/manual-git-grupo6/blob/main/comandos-basicos.md)
+- [4. Branches e Merge](https://github.com/Rafaelcolombo23/manual-git-grupo6/blob/main/04-ramificacoes-merge.md)
+- [5. GitHub e Pull Requests](https://github.com/Rafaelcolombo23/manual-git-grupo6/blob/main/05-pull-requests.md)
 - [Integrantes do Grupo](#integrantes-do-grupo)
 - [Nome do Grupo](#nome-do-grupo)
 
