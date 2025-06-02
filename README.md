@@ -16,11 +16,11 @@ Este projeto tem como objetivo apresentar de forma clara e objetiva os principai
 
 ## Integrantes do Grupo
 
-- Rafael Colombo da Silva - GitHub: [https://github.com/Rafaelcolombo23](https://github.com/Rafaelcolombo23)
-- Gustavo Pelissari Oenning - GitHub: [https://github.com/GustavoPelissari](https://github.com/GustavoPelissari)
-- Gabriel de Abreu da Silva - GitHub: [https://github.com/GabriellzinAbreu](https://github.com/GabriellzinAbreu)
-- Bruno Cernach Madeira - GitHub: [https://github.com/bcmadeira](https://github.com/bcmadeira)
-- Josué Wellyngtton Marçal de Souza - GitHub: [https://github.com/Josuewms](https://github.com/Josuewms)
+-Ra: 14551 Rafael Colombo da Silva - GitHub: [https://github.com/Rafaelcolombo23](https://github.com/Rafaelcolombo23)
+-Ra:14531 Gustavo Pelissari Oenning - GitHub: [https://github.com/GustavoPelissari](https://github.com/GustavoPelissari)
+-Ra:14525 Gabriel de Abreu da Silva - GitHub: [https://github.com/GabriellzinAbreu](https://github.com/GabriellzinAbreu)
+-Ra:14648 Bruno Cernach Madeira - GitHub: [https://github.com/bcmadeira](https://github.com/bcmadeira)
+-Ra:14643 Josué Wellyngtton Marçal de Souza - GitHub: [https://github.com/Josuewms](https://github.com/Josuewms)
 
 ## Nome do Grupo
 
